@@ -13,7 +13,11 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="43" height="33" />
+  <img align="center" alt="VS" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg"  width="45" height="35" />
   <img align="right" alt="gatinho" height="150" style="border-radius:50px;" src="https://http2.mlstatic.com/D_NQ_NP_884316-MLB48343863138_112021-O.jpg">
+  <img align="center" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="65" height="65"/>
+  <img align="center" alt="SqlServer" src="https://img.icons8.com/color/480/microsoft-sql-server.png" width="50" height="40"/>
 </div>
   
   ##
