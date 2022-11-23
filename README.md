@@ -18,6 +18,7 @@
   <img align="right" alt="gatinho" height="150" style="border-radius:50px;" src="https://http2.mlstatic.com/D_NQ_NP_884316-MLB48343863138_112021-O.jpg">
   <img align="center" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="65" height="65"/>
   <img align="center" alt="SqlServer" src="https://img.icons8.com/color/480/microsoft-sql-server.png" width="50" height="40"/>
+  <img align="center" alt="MySQL" src="https://img.icons8.com/color/480/microsoft-mysql.png" width="50" height="40"/>
 </div>
   
   ##
